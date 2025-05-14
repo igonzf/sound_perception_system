@@ -1,0 +1,9 @@
+repositories:
+  sed_ros:
+    type: git
+    url: https://github.com/igonzf/sed_ros.git
+    version: main
+  respeaker_ros:
+    type: git
+    url: https://github.com/hcrlab/respeaker_ros.git
+    version: main
